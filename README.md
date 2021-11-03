@@ -40,7 +40,7 @@ public Siswa(int n, String m) {
 nilai= n;
 nama= m;} }
 ```
-* Overloading Constructor merupakan class yang memiliki lebih dari 1 constructor, tetapi parameter tidak boleh sama. Conroh :
+* Overloading Constructor merupakan class yang memiliki lebih dari 1 constructor, tetapi parameter tidak boleh sama. Contoh :
 ```java
 public class Siswa {
 ```
