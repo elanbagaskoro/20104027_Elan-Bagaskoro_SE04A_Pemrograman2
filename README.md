@@ -67,7 +67,7 @@ Hasil running :
 Wahyu
 Hitung=0
 ```
-Analisa :
+Analisa :\
 Program diatas menggunakan konsep Encapsulation yang dimana saat membuat variable, variable yang digunakan merupakan variable yang disembunyikan atau "private".\
 Lalu program tersebut memiliki hasil running "Wahyu, Hitung=0" dikarenakan pada line ke-13 di class StudentRecordExample yaitu System.out.println(Wahyu.getName()) yang dimana line tersebut memanggil Wahyu.getName(). Lalu pada output "Hitung=0" terjadi karena program memanggil StudentRecord.getStudentCount() yang dimana getStudentCount() melakukan return kepada studentCount yang dimana studentCount berisi 0.
 
