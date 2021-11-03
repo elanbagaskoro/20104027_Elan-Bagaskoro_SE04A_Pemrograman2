@@ -1,1 +1,11 @@
 # 20104027_Elan-Bagaskoro_SE04A_Pemrograman2
+
+
+### Praktikum Pemrograman 2
+
+<hr>
+
+### Daftar Isi :
+1. [Modul 1 : ](https://github.com/elanbagaskoro/20104027_Elan-Bagaskoro_SE04A_Pemrograman2/tree/Modul1)
+2. [Modul 2 : Dasar Pemrograman Java](https://github.com/elanbagaskoro/20104027_Elan-Bagaskoro_SE04A_Pemrograman2/tree/Modul2)
+3. [Modul 3 : Pengenalan Pemrograman Beriorientasi Objek](https://github.com/elanbagaskoro/20104027_Elan-Bagaskoro_SE04A_Pemrograman2/tree/Modul3)
