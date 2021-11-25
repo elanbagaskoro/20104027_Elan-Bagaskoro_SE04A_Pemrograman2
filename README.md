@@ -12,3 +12,4 @@
 4. [Modul 4 : Dasar Pemrograman Beriorientasi Objek](https://github.com/elanbagaskoro/20104027_Elan-Bagaskoro_SE04A_Pemrograman2/tree/Modul4)
 5. [Modul 5 : Mengelola Class](https://github.com/elanbagaskoro/20104027_Elan-Bagaskoro_SE04A_Pemrograman2/blob/Modul5/README.md)
 6. [Modul 6 : Konsep Inheritance](https://github.com/elanbagaskoro/20104027_Elan-Bagaskoro_SE04A_Pemrograman2/tree/Modul6)
+7. [Modul 7 : Overloading dan Overriding](https://github.com/elanbagaskoro/20104027_Elan-Bagaskoro_SE04A_Pemrograman2/blob/Modul7/README.md)
