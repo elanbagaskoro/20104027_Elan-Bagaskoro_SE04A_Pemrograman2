@@ -100,3 +100,16 @@ public class Percobaan6 {
     }
 }
 ```
+
+<hr>
+
+## Praktikum
+
+* Latihan 1\
+[Method yang melempar checked exception](https://github.com/sugarbooo/20104027_Elan-Bagaskoro_SE04A_Pemrograman2/blob/Modul9/src/Modul9/Latihan/Latihan1.java)
+
+* Latihan 2\
+[Method yang melempar unchecked exception](https://github.com/sugarbooo/20104027_Elan-Bagaskoro_SE04A_Pemrograman2/blob/Modul9/src/Modul9/Latihan/Latihan2.java)
+
+* Latihan 3\
+[Menggunakan konsep Inheritance untuk membuat superclass dan subclass exception. Program menangani exception dengan menangkap subclass exception dengan superclass.](https://github.com/sugarbooo/20104027_Elan-Bagaskoro_SE04A_Pemrograman2/blob/Modul9/src/Modul9/Latihan/Latihan3.java)
